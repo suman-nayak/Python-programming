@@ -1,0 +1,21 @@
+info = {
+    "name": "SumanNayak",
+    "subject": ["python", "java", "C"],
+    "topics": ("dict", "list", "tuple"),
+    "age": 23,
+    "is adult": True,
+    "marks": 95.4,
+    123.36 : 3563
+}
+print(info)
+print(type(info))
+print(len(info))
+print(info["name"])
+print(info["subject"])
+info["name"] = "SUMAN"
+info["surname"] = "NAYAK"
+print(info)
+dict = {}
+print(type(dict))
+dict["Name"] = "Suman"
+print(dict)

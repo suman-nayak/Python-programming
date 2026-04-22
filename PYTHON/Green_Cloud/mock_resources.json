@@ -1,0 +1,29 @@
+[
+  {
+    "id": "vm-102",
+    "name": "AI-Model-Training-GPU",
+    "region": "us-east-1 (N. Virginia)",
+    "usage_hours": 150,
+    "vcpu": 8,
+    "cost_hourly": 1.20,
+    "carbon_intensity": 390
+  },
+  {
+    "id": "db-404",
+    "name": "Customer-Database-Prod",
+    "region": "ap-south-1 (Mumbai)",
+    "usage_hours": 720,
+    "vcpu": 4,
+    "cost_hourly": 0.45,
+    "carbon_intensity": 710
+  },
+  {
+    "id": "web-001",
+    "name": "Frontend-LoadBalancer",
+    "region": "eu-north-1 (Stockholm)",
+    "usage_hours": 720,
+    "vcpu": 2,
+    "cost_hourly": 0.08,
+    "carbon_intensity": 12
+  }
+]
